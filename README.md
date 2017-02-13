@@ -1,24 +1,21 @@
-# README
+# _Mixtape Central_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+App that features Users, Mixtapes, and Reviews. Users post Mixtapes that belong to them, and Reviews can be posted which belong to Mixtape.
 
-Things you may want to cover:
+## Support and contact details
 
-* Ruby version
+_Github: [JPCodes](https://github.com/JPCodes)_
 
-* System dependencies
+## Technologies Used
 
-* Configuration
+* _Rails_
+  * _Rspec_
+  * _Capybara_
+* _Ruby_
+* _Bootstrap_
 
-* Database creation
+### License
 
-* Database initialization
+MIT
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
