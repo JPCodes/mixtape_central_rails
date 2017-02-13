@@ -20,7 +20,7 @@ _Github: [JPCodes](https://github.com/JPCodes)_
 * _In the Terminal, run:_
 ```
 git clone https://github.com/JPCodes/mixtape_central_rails
-cd album-central-rails
+cd mixtape_central_rails
 bundle install
 rake db:create
 rake db:migrate
